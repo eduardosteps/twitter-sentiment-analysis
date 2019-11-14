@@ -27,7 +27,7 @@ See handling erros to add exception in case the users don't pass the correct arg
 search_term = input('What do you wanna search for? ')
 num_of_terms = int(input('How many terms? '))
 people_tweets = tweepy.Cursor(api.search,
-                              since = "2019-11-01",
+                              #since = "2019-11-01",
                               #until = "2019-11-14",
                               q = search_term, 
                               lang = "en").items(num_of_terms)
