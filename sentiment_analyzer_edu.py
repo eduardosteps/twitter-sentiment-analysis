@@ -73,6 +73,5 @@ print(int((neutral / num_of_terms) * 100), '% Neturals')
 print()
 
 '''
-Create a function to return a percentage chart here. 
-Ask Fernandinho and Felipe to help me out.
+Create a function to return a percentage charts here. 
 '''
