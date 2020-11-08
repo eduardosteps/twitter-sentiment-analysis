@@ -21,7 +21,7 @@ api = tweepy.API(auth)
 
 '''
 Searching for any term
-See handling erros to add exception in case the users don't pass the correct argument. Talk about this with the guys on wednesday.
+See handling erros to add exception in case the users don't pass the correct argument.
 '''
 
 search_term = input('What do you wanna search for? ')
@@ -73,5 +73,5 @@ print(int((neutral / num_of_terms) * 100), '% Neturals')
 print()
 
 '''
-Create a function to return percentage charts here. 
+Create a function to return percentage charts here in the future. 
 '''
