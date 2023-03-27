@@ -1,8 +1,9 @@
-# Análise de sentimento do Twitter.
-Este projeto foi desenvolvido por Eduardo Passos, com o objetivo de fornecer um script Python que extrai tweets usando Tweepy e TextBlob para análise de sentimento.
+# Sentiment analysis using Twitter data extraction
 
-## Exemplo
+This project was developed by Eduardo Passos with the objective of providing a Python script that extracts tweets using Tweepy and TextBlob for sentiment analysis.
+
+## Sample
 <img src="export/sentiment-analysis-twitter.gif">
 
-## Resultados
+## Results
 <img src="export/sentiment-analysis-twitter.png">
